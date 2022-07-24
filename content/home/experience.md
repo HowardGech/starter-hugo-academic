@@ -39,7 +39,7 @@ experience:
     location: Hefei, Anhui, China
     date_start: '2021-09-01'
     date_end: '2022-02-01'
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Mentoring
