@@ -22,14 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Online Research Assistant
+  - title: Online Research Intern
     company: Harvard University
     company_url: 'https://www.harvard.edu/'
     company_logo: logo_harvard
     location: Boston
     date_start: '2021-06-01'
     date_end: ''
-    description: Conducting research in variational bayes and variable selection.
+    description:|2-
+    Supervisor: Prof. Jun Liu
+    
+    Conducting research in variational bayes and variable selection.
     
   - title: Teaching Assistant of Probability and Mathematical Statistics
     company: University of Science and Technology of China
