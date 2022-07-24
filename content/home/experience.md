@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Online Research Assistant
     company: Harvard University
-    company_url: ''
+    company_url: 'https://www.harvard.edu/'
     company_logo: logo_harvard
     location: Boston
     date_start: '2021-06-01'
@@ -33,7 +33,7 @@ experience:
     
   - title: Teaching Assistant of Probability and Mathematical Statistics
     company: University of Science and Technology of China
-    company_url: ''
+    company_url: 'https://www.ustc.edu.cn/'
     company_logo: logo_ustc
     location: Hefei, Anhui, China
     date_start: '2021-09-01'
