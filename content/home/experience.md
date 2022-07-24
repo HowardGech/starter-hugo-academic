@@ -29,7 +29,7 @@ experience:
     location: Boston
     date_start: '2021-06-01'
     date_end: ''
-    description:
+    description:>-
     Supervisor: Prof. Jun Liu
     Conducting research in variational bayes and variable selection.
     
