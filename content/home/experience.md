@@ -29,8 +29,7 @@ experience:
     location: Boston
     date_start: '2021-06-01'
     date_end: ''
-    description:>-
-    Supervisor: Prof. Jun Liu
+    description:
     Conducting research in variational bayes and variable selection.
     
   - title: Teaching Assistant of Probability and Mathematical Statistics
