@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description:
     Supervisor: Prof. Jun Liu
-    
     Conducting research in variational bayes and variable selection.
     
   - title: Teaching Assistant of Probability and Mathematical Statistics
